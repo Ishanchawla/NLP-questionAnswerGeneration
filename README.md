@@ -46,5 +46,4 @@ On analysing above models we concluded with Naive Bayes as the highest performin
 2. Using Flask UI was created to input text as below and generate question and answers from it.
 i. Direct Text
 ii. From Text File
-iii. From URL 
-3. Heroku was used to host the flask application.
+iii. From URL
